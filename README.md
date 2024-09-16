@@ -1,5 +1,3 @@
-# -Prédiction de défaut de paiement d'un client avec SVM
-
 # Projet de Classification SVM pour la Prédiction de Défaut de Paiement
 
 ## Description du projet
